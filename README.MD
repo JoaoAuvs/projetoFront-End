@@ -10,7 +10,7 @@ O SG-Ambientes é uma solução web com o propósito de gerir a segurança e o c
 
 ## Como instalar
 
-- Baixe ou clone este repositório usando ``.
+- Baixe ou clone este repositório usando `git@github.com:JoaoAuvs/projetoFront-End.git`.
 - Dentro do diretório, execute `npm install @ionic-native/native-storage` para instalar as dependências.
 
 ## Como executar
